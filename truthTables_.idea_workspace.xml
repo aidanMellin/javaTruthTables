@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bfac595-690c-4cc6-889a-fac661dd6435" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WicGyd8kGsn5NdGzprp1Bwzy4f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.truthExcelRead">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="truthTables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="truthExcelRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="truthExcelRead" />
+      <module name="truthTables" />
+      <option name="PROGRAM_PARAMETERS" value="truthTableTitled.csv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="truthMain P||Q" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="truthCommandLine" />
+      <module name="truthTables" />
+      <option name="PROGRAM_PARAMETERS" value="P||Q ![P||Q] (!P)||Q P||(!Q) (!P)||(!Q) ![(!P)||Q] ![P||(!Q)] ![(!P)||(!Q)]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="truthMain P&amp;&amp;Q&amp;&amp;R" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="truthCommandLine" />
+      <module name="truthTables" />
+      <option name="PROGRAM_PARAMETERS" value="P&amp;&amp;Q P&amp;&amp;R Q&amp;&amp;R (!P)&amp;&amp;Q (!P)&amp;&amp;R (!Q)&amp;&amp;R P&amp;&amp;(!Q) P&amp;&amp;(!R) Q&amp;&amp;(!R) " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.truthMain P&amp;&amp;Q&amp;&amp;R" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.truthExcelRead" />
+      <item itemvalue="Application.truthMain P||Q" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.truthExcelRead" />
+        <item itemvalue="Application.truthMain P||Q" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bfac595-690c-4cc6-889a-fac661dd6435" name="Default Changelist" comment="" />
+      <created>1579635764002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579635764002</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="303" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580418134223">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="305" y="303" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580418134223" />
+    <state x="580" y="432" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579897221794">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="580" y="432" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579897221794" />
+    <state x="690" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580247253074">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="288" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580247253074" />
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1580249111377">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1580249111377" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1580769807620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580769807620" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1580769807620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580769807620" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1580769807620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580769807620" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1580769807620">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580769807620" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1580171968756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580171968756" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1580171968756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580171968756" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1580171968756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580171968756" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1580171968756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580171968756" />
+    <state x="461" y="183" key="SettingsEditor" timestamp="1580771246025">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580771246025" />
+    <state x="664" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579895756711">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="664" y="434" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1579895756711" />
+    <state x="342" y="161" key="new project wizard" timestamp="1580425051144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="161" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1580425051144" />
+    <state x="702" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1580416665428">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="169" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580416665428" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1580246370500">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580246370500" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1579750340295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1579750340295" />
+  </component>
+</project>
