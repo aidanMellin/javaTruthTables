@@ -1,0 +1,16 @@
+Hey!
+
+This is my personal Truth Tables project that I did parallel with my Discrete Mathmatics lessons as a way to practice both Java and Math
+my freshman year. 
+
+There are two files (currently), and both are created with the utilization of command line arguments, rather than having everything based
+in the actual code via scanners.
+
+Though I initially built it using only JTable and JFrame, I have extended the program to be able to read and write to CSV Excel-Readable
+filetypes, with the truthExcelRead reading the first line of the truthTableTitled file to determine which processes are supposed to be run and then
+compiled into the TruthTableDelimited.csv file so as to not commit irreprable changes to either files.
+
+The truthCommandLine Java class will use Command Line arguments to determine which processes to run, while TruthTableRead will take a command
+line argument to determine which file to read.
+
+Have fun! (I tried to comment as best I could, and I am still updating this as I go)
